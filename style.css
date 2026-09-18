@@ -1,0 +1,12 @@
+
+body {
+font-family: Arial, sans-serif;
+background: yellow;
+}
+
+main {
+max-width: 500px;
+margin: 50px auto;
+padding: 30px;
+background:red;
+}
