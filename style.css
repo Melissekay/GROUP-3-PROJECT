@@ -1,15 +1,6 @@
-body {
-font-family: Arial, sans-serif;
-background: whitesmoke;
-}
-
-main {
-max-width: 500px;
-margin: 50px auto;
-padding: 30px;
-background: white;
-}
-.container {
+.profile-card {
+    width: 300px;
+    background-color: white;
     text-align: center;
     background-color:violet; 
     padding: 10px; 
@@ -24,12 +15,4 @@ ul{
     font-size: 20px; 
 }
 
-li{
-    text-align: center;
-}
-p{
-    text-align: center;
-}
-h4{
-    text-align: center;
-}
+    h2 {text-align: center;}
